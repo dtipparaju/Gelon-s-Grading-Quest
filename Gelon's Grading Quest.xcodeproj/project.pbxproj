@@ -1,0 +1,588 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F96CE402298D627D00C2DA86 /* Gelon_s_Grading_QuestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96CE401298D627D00C2DA86 /* Gelon_s_Grading_QuestApp.swift */; };
+		F96CE404298D627D00C2DA86 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96CE403298D627D00C2DA86 /* ContentView.swift */; };
+		F96CE406298D627E00C2DA86 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F96CE405298D627E00C2DA86 /* Assets.xcassets */; };
+		F96CE409298D627E00C2DA86 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F96CE408298D627E00C2DA86 /* Preview Assets.xcassets */; };
+		F96CE413298D627E00C2DA86 /* Gelon_s_Grading_QuestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96CE412298D627E00C2DA86 /* Gelon_s_Grading_QuestTests.swift */; };
+		F96CE41D298D627E00C2DA86 /* Gelon_s_Grading_QuestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96CE41C298D627E00C2DA86 /* Gelon_s_Grading_QuestUITests.swift */; };
+		F96CE41F298D627E00C2DA86 /* Gelon_s_Grading_QuestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96CE41E298D627E00C2DA86 /* Gelon_s_Grading_QuestUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F96CE40F298D627E00C2DA86 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F96CE3F6298D627D00C2DA86 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F96CE3FD298D627D00C2DA86;
+			remoteInfo = "Gelon's Grading Quest";
+		};
+		F96CE419298D627E00C2DA86 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F96CE3F6298D627D00C2DA86 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F96CE3FD298D627D00C2DA86;
+			remoteInfo = "Gelon's Grading Quest";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F96CE3FE298D627D00C2DA86 /* Gelon's Grading Quest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Gelon's Grading Quest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F96CE401298D627D00C2DA86 /* Gelon_s_Grading_QuestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gelon_s_Grading_QuestApp.swift; sourceTree = "<group>"; };
+		F96CE403298D627D00C2DA86 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F96CE405298D627E00C2DA86 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F96CE408298D627E00C2DA86 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F96CE40E298D627E00C2DA86 /* Gelon's Grading QuestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Gelon's Grading QuestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F96CE412298D627E00C2DA86 /* Gelon_s_Grading_QuestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gelon_s_Grading_QuestTests.swift; sourceTree = "<group>"; };
+		F96CE418298D627E00C2DA86 /* Gelon's Grading QuestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Gelon's Grading QuestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F96CE41C298D627E00C2DA86 /* Gelon_s_Grading_QuestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gelon_s_Grading_QuestUITests.swift; sourceTree = "<group>"; };
+		F96CE41E298D627E00C2DA86 /* Gelon_s_Grading_QuestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gelon_s_Grading_QuestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F96CE3FB298D627D00C2DA86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F96CE40B298D627E00C2DA86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F96CE415298D627E00C2DA86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F96CE3F5298D627D00C2DA86 = {
+			isa = PBXGroup;
+			children = (
+				F96CE400298D627D00C2DA86 /* Gelon's Grading Quest */,
+				F96CE411298D627E00C2DA86 /* Gelon's Grading QuestTests */,
+				F96CE41B298D627E00C2DA86 /* Gelon's Grading QuestUITests */,
+				F96CE3FF298D627D00C2DA86 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F96CE3FF298D627D00C2DA86 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F96CE3FE298D627D00C2DA86 /* Gelon's Grading Quest.app */,
+				F96CE40E298D627E00C2DA86 /* Gelon's Grading QuestTests.xctest */,
+				F96CE418298D627E00C2DA86 /* Gelon's Grading QuestUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F96CE400298D627D00C2DA86 /* Gelon's Grading Quest */ = {
+			isa = PBXGroup;
+			children = (
+				F96CE401298D627D00C2DA86 /* Gelon_s_Grading_QuestApp.swift */,
+				F96CE403298D627D00C2DA86 /* ContentView.swift */,
+				F96CE405298D627E00C2DA86 /* Assets.xcassets */,
+				F96CE407298D627E00C2DA86 /* Preview Content */,
+			);
+			path = "Gelon's Grading Quest";
+			sourceTree = "<group>";
+		};
+		F96CE407298D627E00C2DA86 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				F96CE408298D627E00C2DA86 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F96CE411298D627E00C2DA86 /* Gelon's Grading QuestTests */ = {
+			isa = PBXGroup;
+			children = (
+				F96CE412298D627E00C2DA86 /* Gelon_s_Grading_QuestTests.swift */,
+			);
+			path = "Gelon's Grading QuestTests";
+			sourceTree = "<group>";
+		};
+		F96CE41B298D627E00C2DA86 /* Gelon's Grading QuestUITests */ = {
+			isa = PBXGroup;
+			children = (
+				F96CE41C298D627E00C2DA86 /* Gelon_s_Grading_QuestUITests.swift */,
+				F96CE41E298D627E00C2DA86 /* Gelon_s_Grading_QuestUITestsLaunchTests.swift */,
+			);
+			path = "Gelon's Grading QuestUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F96CE3FD298D627D00C2DA86 /* Gelon's Grading Quest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F96CE422298D627E00C2DA86 /* Build configuration list for PBXNativeTarget "Gelon's Grading Quest" */;
+			buildPhases = (
+				F96CE3FA298D627D00C2DA86 /* Sources */,
+				F96CE3FB298D627D00C2DA86 /* Frameworks */,
+				F96CE3FC298D627D00C2DA86 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Gelon's Grading Quest";
+			productName = "Gelon's Grading Quest";
+			productReference = F96CE3FE298D627D00C2DA86 /* Gelon's Grading Quest.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F96CE40D298D627E00C2DA86 /* Gelon's Grading QuestTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F96CE425298D627E00C2DA86 /* Build configuration list for PBXNativeTarget "Gelon's Grading QuestTests" */;
+			buildPhases = (
+				F96CE40A298D627E00C2DA86 /* Sources */,
+				F96CE40B298D627E00C2DA86 /* Frameworks */,
+				F96CE40C298D627E00C2DA86 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F96CE410298D627E00C2DA86 /* PBXTargetDependency */,
+			);
+			name = "Gelon's Grading QuestTests";
+			productName = "Gelon's Grading QuestTests";
+			productReference = F96CE40E298D627E00C2DA86 /* Gelon's Grading QuestTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F96CE417298D627E00C2DA86 /* Gelon's Grading QuestUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F96CE428298D627E00C2DA86 /* Build configuration list for PBXNativeTarget "Gelon's Grading QuestUITests" */;
+			buildPhases = (
+				F96CE414298D627E00C2DA86 /* Sources */,
+				F96CE415298D627E00C2DA86 /* Frameworks */,
+				F96CE416298D627E00C2DA86 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F96CE41A298D627E00C2DA86 /* PBXTargetDependency */,
+			);
+			name = "Gelon's Grading QuestUITests";
+			productName = "Gelon's Grading QuestUITests";
+			productReference = F96CE418298D627E00C2DA86 /* Gelon's Grading QuestUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F96CE3F6298D627D00C2DA86 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					F96CE3FD298D627D00C2DA86 = {
+						CreatedOnToolsVersion = 14.0;
+					};
+					F96CE40D298D627E00C2DA86 = {
+						CreatedOnToolsVersion = 14.0;
+						TestTargetID = F96CE3FD298D627D00C2DA86;
+					};
+					F96CE417298D627E00C2DA86 = {
+						CreatedOnToolsVersion = 14.0;
+						TestTargetID = F96CE3FD298D627D00C2DA86;
+					};
+				};
+			};
+			buildConfigurationList = F96CE3F9298D627D00C2DA86 /* Build configuration list for PBXProject "Gelon's Grading Quest" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F96CE3F5298D627D00C2DA86;
+			productRefGroup = F96CE3FF298D627D00C2DA86 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F96CE3FD298D627D00C2DA86 /* Gelon's Grading Quest */,
+				F96CE40D298D627E00C2DA86 /* Gelon's Grading QuestTests */,
+				F96CE417298D627E00C2DA86 /* Gelon's Grading QuestUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F96CE3FC298D627D00C2DA86 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F96CE409298D627E00C2DA86 /* Preview Assets.xcassets in Resources */,
+				F96CE406298D627E00C2DA86 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F96CE40C298D627E00C2DA86 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F96CE416298D627E00C2DA86 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F96CE3FA298D627D00C2DA86 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F96CE404298D627D00C2DA86 /* ContentView.swift in Sources */,
+				F96CE402298D627D00C2DA86 /* Gelon_s_Grading_QuestApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F96CE40A298D627E00C2DA86 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F96CE413298D627E00C2DA86 /* Gelon_s_Grading_QuestTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F96CE414298D627E00C2DA86 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F96CE41F298D627E00C2DA86 /* Gelon_s_Grading_QuestUITestsLaunchTests.swift in Sources */,
+				F96CE41D298D627E00C2DA86 /* Gelon_s_Grading_QuestUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F96CE410298D627E00C2DA86 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F96CE3FD298D627D00C2DA86 /* Gelon's Grading Quest */;
+			targetProxy = F96CE40F298D627E00C2DA86 /* PBXContainerItemProxy */;
+		};
+		F96CE41A298D627E00C2DA86 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F96CE3FD298D627D00C2DA86 /* Gelon's Grading Quest */;
+			targetProxy = F96CE419298D627E00C2DA86 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F96CE420298D627E00C2DA86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F96CE421298D627E00C2DA86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F96CE423298D627E00C2DA86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Gelon's Grading Quest/Preview Content\"";
+				DEVELOPMENT_TEAM = ZM8QD2KAG2;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "BrightStar.Gelon-s-Grading-Quest";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F96CE424298D627E00C2DA86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Gelon's Grading Quest/Preview Content\"";
+				DEVELOPMENT_TEAM = ZM8QD2KAG2;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "BrightStar.Gelon-s-Grading-Quest";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F96CE426298D627E00C2DA86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZM8QD2KAG2;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "BrightStar.Gelon-s-Grading-QuestTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Gelon's Grading Quest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Gelon's Grading Quest";
+			};
+			name = Debug;
+		};
+		F96CE427298D627E00C2DA86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZM8QD2KAG2;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "BrightStar.Gelon-s-Grading-QuestTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Gelon's Grading Quest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Gelon's Grading Quest";
+			};
+			name = Release;
+		};
+		F96CE429298D627E00C2DA86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZM8QD2KAG2;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "BrightStar.Gelon-s-Grading-QuestUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Gelon's Grading Quest";
+			};
+			name = Debug;
+		};
+		F96CE42A298D627E00C2DA86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZM8QD2KAG2;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "BrightStar.Gelon-s-Grading-QuestUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Gelon's Grading Quest";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F96CE3F9298D627D00C2DA86 /* Build configuration list for PBXProject "Gelon's Grading Quest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F96CE420298D627E00C2DA86 /* Debug */,
+				F96CE421298D627E00C2DA86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F96CE422298D627E00C2DA86 /* Build configuration list for PBXNativeTarget "Gelon's Grading Quest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F96CE423298D627E00C2DA86 /* Debug */,
+				F96CE424298D627E00C2DA86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F96CE425298D627E00C2DA86 /* Build configuration list for PBXNativeTarget "Gelon's Grading QuestTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F96CE426298D627E00C2DA86 /* Debug */,
+				F96CE427298D627E00C2DA86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F96CE428298D627E00C2DA86 /* Build configuration list for PBXNativeTarget "Gelon's Grading QuestUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F96CE429298D627E00C2DA86 /* Debug */,
+				F96CE42A298D627E00C2DA86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F96CE3F6298D627D00C2DA86 /* Project object */;
+}
